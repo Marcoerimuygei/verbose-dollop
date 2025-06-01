@@ -487,3 +487,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Jun2025 22:18:23.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9270ms or 185 ticks behind
 [01Jun2025 22:20:42.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/1347, l='ServerLevel[world]', x=430.28, y=66.90, z=327.19] died: Honeyed Archer burned to death
 [01Jun2025 22:20:57.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[01Jun2025 22:32:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Alex's Caves]
