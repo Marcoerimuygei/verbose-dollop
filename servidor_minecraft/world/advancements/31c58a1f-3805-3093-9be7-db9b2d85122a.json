@@ -6777,6 +6777,12 @@
     },
     "done": true
   },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-06-02 22:35:53 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
       "horrorofthe_depths_0": "2025-06-02 22:27:50 +0000"
