@@ -3092,6 +3092,8 @@
       "potato": "2025-05-26 22:51:36 +0000",
       "bread": "2025-05-25 03:18:51 +0000",
       "golden_apple": "2025-05-26 05:05:51 +0000",
+      "suspicious_stew": "2025-06-02 01:24:44 +0000",
+      "golden_carrot": "2025-06-02 01:46:05 +0000",
       "carrot": "2025-05-29 04:59:50 +0000"
     },
     "done": false
@@ -6592,6 +6594,54 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-06-01 22:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-02 00:01:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-06-02 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-02 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-06-02 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2025-06-02 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-02 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-06-02 00:50:20 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2025-06-02 01:24:45 +0000"
     },
     "done": true
   },
