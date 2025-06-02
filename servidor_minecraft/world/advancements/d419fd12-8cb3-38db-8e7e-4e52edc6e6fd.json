@@ -1784,6 +1784,7 @@
       "minecraft:forest": "2025-05-30 18:02:27 +0000",
       "minecraft:ocean": "2025-05-30 17:54:19 +0000",
       "minecraft:flower_forest": "2025-05-29 04:43:13 +0000",
+      "minecraft:meadow": "2025-06-02 19:26:25 +0000",
       "minecraft:plains": "2025-05-29 04:35:57 +0000"
     },
     "done": false
@@ -4598,9 +4599,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-06-02 19:29:19 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/basic_mount_upgrade": {
     "criteria": {
       "has_saddle": "2025-06-02 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-02 19:21:29 +0000"
     },
     "done": true
   },
@@ -4613,6 +4626,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-02 19:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:29:19 +0000"
     },
     "done": true
   },
@@ -4640,9 +4659,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:29:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-02 19:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:29:19 +0000"
     },
     "done": true
   },
