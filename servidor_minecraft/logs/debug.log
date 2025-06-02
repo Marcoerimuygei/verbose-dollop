@@ -8041,3 +8041,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 23:07:18.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/22038, l='ServerLevel[world]', x=409.50, y=33.19, z=300.30] died, message: 'Librarian was slain by gay/3'
 [02Jun2025 23:07:25.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/22039, l='ServerLevel[world]', x=407.50, y=33.19, z=300.70] died, message: 'Cartographer was slain by gay/3'
 [02Jun2025 23:07:51.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/22040, l='ServerLevel[world]', x=405.30, y=33.19, z=300.24] died, message: 'Cleric was slain by gay/3'
+[02Jun2025 23:10:24.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/33897, l='ServerLevel[world]', x=403.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[02Jun2025 23:10:32.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/33898, l='ServerLevel[world]', x=405.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[02Jun2025 23:10:40.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/33893, l='ServerLevel[world]', x=401.50, y=33.19, z=304.30] died, message: 'Armorer was slain by gay/2'
+[02Jun2025 23:11:52.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:11:52.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:16:52.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:16:52.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:17:42.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Blade Stand]
