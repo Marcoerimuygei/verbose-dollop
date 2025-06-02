@@ -8049,3 +8049,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 23:16:52.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 23:16:52.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 23:17:42.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Blade Stand]
+[02Jun2025 23:20:13.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/34521, l='ServerLevel[world]', x=403.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[02Jun2025 23:20:21.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/34682, l='ServerLevel[world]', x=405.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[02Jun2025 23:20:39.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/34831, l='ServerLevel[world]', x=401.50, y=33.19, z=304.30] died, message: 'Armorer was slain by gay/2'
+[02Jun2025 23:21:16.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/34255, l='ServerLevel[world]', x=409.50, y=33.19, z=300.70] died, message: 'Librarian was slain by gay/3'
+[02Jun2025 23:21:33.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/34275, l='ServerLevel[world]', x=407.50, y=33.19, z=300.70] died, message: 'Cartographer was slain by gay/3'
+[02Jun2025 23:21:40.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/34189, l='ServerLevel[world]', x=405.50, y=33.19, z=300.70] died, message: 'Cleric was slain by gay/3'
+[02Jun2025 23:21:52.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:21:52.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:22:03.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/34312, l='ServerLevel[world]', x=411.50, y=33.19, z=300.70] died, message: 'Weaponsmith was slain by gay/3'
+[02Jun2025 23:26:52.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:26:52.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -6795,6 +6795,12 @@
     },
     "done": true
   },
+  "slashblade:tips/bladestand": {
+    "criteria": {
+      "getitem1": "2025-06-02 23:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-02 22:46:35 +0000"
