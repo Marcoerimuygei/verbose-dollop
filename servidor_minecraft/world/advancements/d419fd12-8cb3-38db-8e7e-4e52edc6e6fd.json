@@ -4604,9 +4604,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-02 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-02 19:16:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-02 18:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-02 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-02 19:10:11 +0000"
     },
     "done": true
   },
@@ -4619,6 +4643,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-06-02 19:16:17 +0000"
     },
     "done": true
   },
