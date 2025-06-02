@@ -493,3 +493,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 18:20:01.406] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCatfish['Catfish'/3232, l='ServerLevel[world]', x=430.42, y=50.09, z=490.80]
 [02Jun2025 18:20:24.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The Most Useful Key]
 [02Jun2025 18:20:48.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has reached the goal [A Fast Comeback]
+[02Jun2025 18:26:01.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Knowledge raises the soul]
+[02Jun2025 18:31:01.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3536, l='ServerLevel[world]', x=1105.56, y=93.25, z=186.65] died: Honeyed Archer suffocated in a wall
+[02Jun2025 18:31:27.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:55199] logged in with entity id 11362 at (396.46282689394974, 1.553213387015222, 334.5577736741518)
+[02Jun2025 18:31:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[02Jun2025 18:31:28.099] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
