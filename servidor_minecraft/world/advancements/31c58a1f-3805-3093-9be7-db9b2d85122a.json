@@ -6645,5 +6645,11 @@
     },
     "done": true
   },
+  "rats:rat_cage": {
+    "criteria": {
+      "get_cage": "2025-06-02 19:07:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
