@@ -7417,3 +7417,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 02:15:45.476] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
 [03Jun2025 02:18:23.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 02:18:23.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 02:23:23.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 02:23:24.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 02:23:43.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/22946, l='ServerLevel[world]', x=405.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[03Jun2025 02:24:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: The difficulty has been set to Hard]
+[03Jun2025 02:24:58.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/22944, l='ServerLevel[world]', x=403.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[03Jun2025 02:25:11.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/22945, l='ServerLevel[world]', x=401.50, y=33.19, z=304.30] died, message: 'Armorer was slain by gay/2'
+[03Jun2025 02:25:18.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/24398, l='ServerLevel[world]', x=405.50, y=33.19, z=304.30] died, message: 'Toolsmith was slain by gay/2'
+[03Jun2025 02:28:23.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 02:28:23.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 02:29:22.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/22937, l='ServerLevel[world]', x=405.50, y=33.19, z=300.70] died, message: 'Cleric was slain by gay/3'
+[03Jun2025 02:29:31.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/22935, l='ServerLevel[world]', x=407.50, y=33.19, z=300.70] died, message: 'Cartographer was slain by gay/3'
+[03Jun2025 02:29:54.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/22936, l='ServerLevel[world]', x=409.51, y=33.19, z=300.70] died, message: 'Librarian was slain by gay/3'
+[03Jun2025 02:30:33.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/25053, l='ServerLevel[world]', x=405.50, y=33.19, z=304.70] died, message: 'Toolsmith was slain by gay/2'

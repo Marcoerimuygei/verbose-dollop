@@ -7025,5 +7025,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-03 02:18:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 02:18:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/idol_upgrade": {
+    "criteria": {
+      "has_gold": "2025-06-03 02:18:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 02:18:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 02:18:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 02:18:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
