@@ -6245,3 +6245,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 05:35:51.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8046ms or 160 ticks behind
 [03Jun2025 05:36:31.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 05:36:31.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 05:40:59.247] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming com/mrcrayfish/goblintraders/Hooks
+[03Jun2025 05:40:59.247] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[03Jun2025 05:41:00.271] [Server thread/DEBUG] [mixin/]: Mixing EnchantmentUtilsMixin from taxfreelevels-forge.mixins.json into dev.shadowsoffire.placebo.util.EnchantmentUtils
+[03Jun2025 05:41:31.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 05:41:31.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 05:41:37.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: The difficulty has been set to Hard]
+[03Jun2025 05:46:31.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 05:46:31.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

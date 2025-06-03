@@ -484,3 +484,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 05:35:24.984] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
 [03Jun2025 05:35:28.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [03Jun2025 05:35:51.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8046ms or 160 ticks behind
+[03Jun2025 05:40:59.247] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[03Jun2025 05:41:37.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: The difficulty has been set to Hard]
