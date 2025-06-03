@@ -8104,15 +8104,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+  "slashblade:arts/combo_b": {
     "criteria": {
-      "has_blue_dye": "2025-06-01 21:43:46 +0000"
+      "customtrigger": "2025-06-01 21:23:48 +0000"
     },
     "done": true
   },
-  "slashblade:recipes/combat/slashblade": {
+  "slashblade:arts/rising_star": {
     "criteria": {
-      "has_slashblade_white": "2025-06-01 21:38:13 +0000"
+      "customtrigger": "2025-06-01 21:26:05 +0000"
     },
     "done": true
   },
@@ -8122,9 +8122,45 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/kamuy_water": {
+  "slashblade:recipes/combat/sabigatana": {
     "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
+      "has_proudsoul_ingot": "2025-06-01 21:36:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_ingot": {
+    "criteria": {
+      "BrokenBlade": "2025-06-01 21:36:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/blue": {
+    "criteria": {
+      "has_proudsoul_ingot": "2025-06-01 21:36:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade": {
+    "criteria": {
+      "has_slashblade_white": "2025-06-01 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tboen": {
+    "criteria": {
+      "has_slashblade_white": "2025-06-01 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_white": {
+    "criteria": {
+      "crafting": "2025-06-01 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-06-01 21:43:46 +0000"
     },
     "done": true
   },
@@ -8134,39 +8170,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-01 21:58:17 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2025-06-01 21:43:46 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-06-01 21:57:16 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/ratbow_essence": {
     "criteria": {
       "has_dye": "2025-06-01 21:43:46 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/snow_crow": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/yuzukitukumo": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
     },
     "done": true
   },
@@ -8188,12 +8200,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/muramasa": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-01 21:43:46 +0000"
@@ -8212,27 +8218,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/nihilul": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-01 21:43:46 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/kamuy_fire": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/tboen": {
-    "criteria": {
-      "has_slashblade_white": "2025-06-01 21:38:13 +0000"
     },
     "done": true
   },
@@ -8242,33 +8230,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/frosty_cherry": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/sabigatana": {
-    "criteria": {
-      "has_proudsoul_ingot": "2025-06-01 21:36:38 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-06-01 21:43:46 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilex": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilbx": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
     },
     "done": true
   },
@@ -8284,45 +8248,9 @@
     },
     "done": true
   },
-  "slashblade:material/proudsoul_ingot": {
-    "criteria": {
-      "BrokenBlade": "2025-06-01 21:36:38 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/laemmle": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/moonlight_cherry": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_b": {
-    "criteria": {
-      "customtrigger": "2025-06-01 21:23:48 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/kamuy_none": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-01 21:43:46 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihil": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
     },
     "done": true
   },
@@ -8335,48 +8263,6 @@
   "rats:recipes/misc/tubes/rat_tube_blue": {
     "criteria": {
       "has_dye": "2025-06-01 21:43:46 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/green_mist": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_white": {
-    "criteria": {
-      "crafting": "2025-06-01 21:38:13 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/rising_star": {
-    "criteria": {
-      "customtrigger": "2025-06-01 21:26:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/aquablaze": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/crimsoncherry": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/blue": {
-    "criteria": {
-      "has_proudsoul_ingot": "2025-06-01 21:36:38 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/yukari": {
-    "criteria": {
-      "has_slashblade": "2025-06-01 21:55:26 +0000"
     },
     "done": true
   },
@@ -8404,6 +8290,108 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/kamuy_water": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/snow_crow": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yuzukitukumo": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/muramasa": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilul": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/kamuy_fire": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/frosty_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilex": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilbx": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/laemmle": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/moonlight_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/kamuy_none": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihil": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/green_mist": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/aquablaze": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/crimsoncherry": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/yukari": {
+    "criteria": {
+      "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/kamuy_lightning": {
     "criteria": {
       "has_slashblade": "2025-06-01 21:55:26 +0000"
@@ -8413,6 +8401,48 @@
   "slashblade_addon:recipes/combat/frost_wolf": {
     "criteria": {
       "has_slashblade": "2025-06-01 21:55:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-06-01 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-01 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-03 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2025-06-03 22:34:42 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/root": {
+    "criteria": {
+      "gun": "2025-06-03 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b_max": {
+    "criteria": {
+      "customtrigger": "2025-06-03 22:32:16 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2025-06-03 22:41:24 +0000"
     },
     "done": true
   },
