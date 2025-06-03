@@ -6777,9 +6777,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-06-02 22:27:50 +0000"
+    },
+    "done": true
+  },
   "rats:plague": {
     "criteria": {
       "catch_plague": "2025-06-02 22:35:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-06-02 22:46:34 +0000"
     },
     "done": true
   },
@@ -6795,12 +6807,6 @@
     },
     "done": true
   },
-  "slashblade:tips/bladestand": {
-    "criteria": {
-      "getitem1": "2025-06-02 23:17:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-02 22:46:35 +0000"
@@ -6813,15 +6819,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:horrorofthe_depths": {
+  "slashblade:tips/bladestand": {
     "criteria": {
-      "horrorofthe_depths_0": "2025-06-02 22:27:50 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:disgusting_lootbox": {
-    "criteria": {
-      "disgusting_lootbox_0": "2025-06-02 22:46:34 +0000"
+      "getitem1": "2025-06-02 23:17:42 +0000"
     },
     "done": true
   },
