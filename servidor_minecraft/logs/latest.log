@@ -502,3 +502,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 01:23:05.152] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
 [03Jun2025 01:25:37.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=62, z=39} BlockPos{x=42, y=61, z=39}
 [03Jun2025 01:30:54.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Hidden in the Depths]
+[03Jun2025 01:32:26.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=56, y=19, z=-102} BlockPos{x=55, y=18, z=-102}
+[03Jun2025 01:33:55.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=16, z=-149} BlockPos{x=24, y=16, z=-147}
+[03Jun2025 01:33:55.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=16, z=-149} BlockPos{x=24, y=16, z=-147}
+[03Jun2025 01:33:55.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=16, z=-150} BlockPos{x=24, y=16, z=-147}
+[03Jun2025 01:35:54.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=15, z=-217} BlockPos{x=-14, y=15, z=-219}
+[03Jun2025 01:35:54.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=15, z=-217} BlockPos{x=-14, y=15, z=-219}
+[03Jun2025 01:36:14.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=15, z=-187} BlockPos{x=-19, y=15, z=-186}
+[03Jun2025 01:36:14.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=15, z=-187} BlockPos{x=-19, y=15, z=-186}
+[03Jun2025 01:36:14.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=15, z=-187} BlockPos{x=-19, y=15, z=-186}
+[03Jun2025 01:36:19.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=15, z=-184} BlockPos{x=-28, y=15, z=-187}
+[03Jun2025 01:36:19.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=15, z=-184} BlockPos{x=-28, y=15, z=-187}
+[03Jun2025 01:36:19.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=15, z=-184} BlockPos{x=-28, y=15, z=-187}
+[03Jun2025 01:36:19.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=15, z=-182} BlockPos{x=-28, y=15, z=-187}
+[03Jun2025 01:39:06.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=15, z=11} BlockPos{x=-31, y=15, z=13}
+[03Jun2025 01:40:21.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=15, z=-56} BlockPos{x=-25, y=15, z=-58}
+[03Jun2025 01:40:21.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=15, z=-56} BlockPos{x=-25, y=15, z=-58}
+[03Jun2025 01:40:21.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=15, z=-56} BlockPos{x=-25, y=15, z=-58}
+[03Jun2025 01:42:16.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=15, z=-137} BlockPos{x=-7, y=15, z=-138}
+[03Jun2025 01:42:16.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=15, z=-137} BlockPos{x=-7, y=15, z=-138}
+[03Jun2025 01:42:58.380] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Jun2025 01:42:58.381] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Jun2025 01:42:58.385] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Jun2025 01:45:15.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=18, z=-160} BlockPos{x=13, y=17, z=171}
+[03Jun2025 01:47:12.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=18, z=-14} BlockPos{x=29, y=17, z=-15}
+[03Jun2025 01:51:20.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[03Jun2025 01:51:22.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[03Jun2025 01:51:23.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
