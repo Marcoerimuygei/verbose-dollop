@@ -2989,3 +2989,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 23:08:06.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Abilities -Trick Up-             ]
 [03Jun2025 23:08:14.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [03Jun2025 23:08:15.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[03Jun2025 23:14:05.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Eddie the Sneaky'/24979, l='ServerLevel[world]', x=376.70, y=64.00, z=290.70] died: Eddie the Sneaky was slain by tacticalMus4sh1
+[03Jun2025 23:14:10.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[03Jun2025 23:14:15.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[03Jun2025 23:14:20.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!

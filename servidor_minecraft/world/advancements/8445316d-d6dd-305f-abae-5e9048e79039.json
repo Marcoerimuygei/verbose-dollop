@@ -8428,6 +8428,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-06-03 23:08:54 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/trick_dodge": {
     "criteria": {
       "customtrigger": "2025-06-03 22:34:42 +0000"
@@ -8440,6 +8446,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-06-03 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-06-03 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_up": {
+    "criteria": {
+      "customtrigger": "2025-06-03 23:08:06 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_b_max": {
     "criteria": {
       "customtrigger": "2025-06-03 22:32:16 +0000"
@@ -8449,6 +8473,12 @@
   "scguns:main/sheol": {
     "criteria": {
       "sheol": "2025-06-03 22:41:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-06-03 23:08:54 +0000"
     },
     "done": true
   },
