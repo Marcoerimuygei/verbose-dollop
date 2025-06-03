@@ -8422,6 +8422,12 @@
     },
     "done": true
   },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2025-06-03 22:51:38 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/trick_dodge": {
     "criteria": {
       "customtrigger": "2025-06-03 22:34:42 +0000"
