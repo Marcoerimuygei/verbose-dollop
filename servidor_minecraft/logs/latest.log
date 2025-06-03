@@ -496,3 +496,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 14:32:51.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: The difficulty has been set to Hard]
 [03Jun2025 14:39:41.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/6425, l='ServerLevel[world]', x=251.57, y=88.85, z=462.94] died: Honeyed Archer burned to death
 [03Jun2025 15:01:53.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Flawless Crystals]
+[03Jun2025 15:27:06.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Nicholas the Marbles Winner'/16432, l='ServerLevel[world]', x=468.70, y=-33.00, z=323.70] died: Nicholas the Marbles Winner was slain by MarcoDelNorte
