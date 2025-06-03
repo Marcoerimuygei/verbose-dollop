@@ -2985,3 +2985,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 22:53:59.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=13, z=26} BlockPos{x=-60, y=14, z=25}
 [03Jun2025 22:54:40.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=15, z=38} BlockPos{x=-54, y=15, z=36}
 [03Jun2025 22:57:12.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Arielle the Misunderstood'/21024, l='ServerLevel[world]', x=10.30, y=56.58, z=56.70] died: Arielle the Misunderstood was slain by tacticalMus4sh1
+[03Jun2025 23:07:08.791] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[03Jun2025 23:08:06.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Abilities -Trick Up-             ]
+[03Jun2025 23:08:14.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[03Jun2025 23:08:15.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
