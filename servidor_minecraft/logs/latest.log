@@ -489,3 +489,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 05:58:09.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
 [03Jun2025 06:29:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
 [03Jun2025 06:30:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
+[03Jun2025 06:31:33.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
+[03Jun2025 06:31:46.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
