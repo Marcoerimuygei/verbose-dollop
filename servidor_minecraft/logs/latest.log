@@ -544,3 +544,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 02:29:31.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/22935, l='ServerLevel[world]', x=407.50, y=33.19, z=300.70] died, message: 'Cartographer was slain by gay/3'
 [03Jun2025 02:29:54.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/22936, l='ServerLevel[world]', x=409.51, y=33.19, z=300.70] died, message: 'Librarian was slain by gay/3'
 [03Jun2025 02:30:33.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/25053, l='ServerLevel[world]', x=405.50, y=33.19, z=304.70] died, message: 'Toolsmith was slain by gay/2'
+[03Jun2025 02:54:47.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
