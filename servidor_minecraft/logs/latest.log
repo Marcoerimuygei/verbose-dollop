@@ -2993,3 +2993,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jun2025 23:14:10.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [03Jun2025 23:14:15.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [03Jun2025 23:14:20.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[03Jun2025 23:32:51.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Jun2025 23:33:16.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9915ms or 198 ticks behind
+[03Jun2025 23:38:56.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Shelby the Burger Chef'/28747, l='ServerLevel[world]', x=229.70, y=69.00, z=257.70] died: Shelby the Burger Chef was slain by tacticalMus4sh1
+[03Jun2025 23:47:56.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/28794, l='ServerLevel[world]', x=303.57, y=93.10, z=176.73] died: Honeyed Archer burned to death

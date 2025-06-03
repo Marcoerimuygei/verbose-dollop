@@ -4112,6 +4112,7 @@
       "minecraft:piglin": "2025-05-26 06:52:54 +0000",
       "minecraft:silverfish": "2025-05-25 03:06:24 +0000",
       "minecraft:enderman": "2025-05-26 06:29:57 +0000",
+      "minecraft:stray": "2025-06-03 23:38:56 +0000",
       "minecraft:vex": "2025-05-25 08:03:20 +0000",
       "minecraft:zombie": "2025-05-25 19:10:20 +0000",
       "minecraft:drowned": "2025-05-26 07:51:24 +0000",
@@ -8440,6 +8441,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-03 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/studded_chestplate_from_iron": {
+    "criteria": {
+      "has_item": "2025-06-03 23:38:56 +0000"
+    },
+    "done": true
+  },
   "scguns:main/root": {
     "criteria": {
       "gun": "2025-06-03 22:30:07 +0000"
@@ -8452,9 +8465,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-03 23:40:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-06-03 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_macerator": {
+    "criteria": {
+      "macerator": "2025-06-03 23:44:44 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_gun_bench": {
+    "criteria": {
+      "gun_bench": "2025-06-03 23:36:17 +0000"
     },
     "done": true
   },
