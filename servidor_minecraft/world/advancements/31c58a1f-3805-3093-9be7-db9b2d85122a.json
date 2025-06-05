@@ -7062,21 +7062,9 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-06-03 15:21:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-06-03 14:34:50 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/mythic_gem": {
-    "criteria": {
-      "gem": "2025-06-03 15:01:53 +0000"
     },
     "done": true
   },
@@ -7086,9 +7074,27 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-03 15:01:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-06-03 15:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-03 15:19:11 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 15:21:28 +0000"
     },
     "done": true
   },
@@ -7104,12 +7110,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-03 15:19:11 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-03 15:21:28 +0000"
@@ -7119,6 +7119,48 @@
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2025-06-03 15:21:28 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-05 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-06-05 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/root": {
+    "criteria": {
+      "gun": "2025-06-05 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-06-05 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:moonpriest_defeat": {
+    "criteria": {
+      "moonpriest_defeat_0": "2025-06-05 00:27:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-06-05 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-06-05 00:22:37 +0000"
     },
     "done": true
   },

@@ -4,3 +4,38 @@
 [05Jun2025 00:16:25.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [05Jun2025 00:16:53.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/18644, l='ServerLevel[world]', x=372.68, y=63.85, z=301.71] died: Honeyed Archer was slain by Dread Hound
 [05Jun2025 00:18:41.720] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Jun2025 00:22:36.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:55923] logged in with entity id 19692 at (203.3881624195698, 62.5625, 274.0066495032268)
+[05Jun2025 00:22:37.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[05Jun2025 00:22:37.215] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
+[05Jun2025 00:22:51.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> donde andas?
+[05Jun2025 00:22:55.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> disc xD
+[05Jun2025 00:24:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> en tu granja porq ??
+[05Jun2025 00:24:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> dormi mrd
+[05Jun2025 00:24:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> marco
+[05Jun2025 00:24:26.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> me robaste la cama maricon
+[05Jun2025 00:24:46.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> ya pero y si duermeas ¡¡
+[05Jun2025 00:24:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> duermes ?
+[05Jun2025 00:25:07.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> no tengo cama
+[05Jun2025 00:25:19.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> q gay
+[05Jun2025 00:27:09.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Bad omen of the Moon]
+[05Jun2025 00:27:24.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[05Jun2025 00:27:26.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[05Jun2025 00:27:28.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[05Jun2025 00:27:28.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[05Jun2025 00:27:36.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[05Jun2025 00:28:21.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> me faltan 16 fragmentos aun :v
+[05Jun2025 00:28:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> pe
+[05Jun2025 00:28:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> oe
+[05Jun2025 00:28:33.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> q paso
+[05Jun2025 00:28:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> el mod de las pistolas tiene un "horno"
+[05Jun2025 00:28:57.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> duplica el fragmento de netherita por ancient debris
+[05Jun2025 00:29:30.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[05Jun2025 00:29:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[05Jun2025 00:29:49.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:60921] logged in with entity id 21802 at (419.7271593483814, 34.0, 301.6598726092092)
+[05Jun2025 00:29:49.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[05Jun2025 00:29:49.787] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[05Jun2025 00:29:53.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[05Jun2025 00:30:17.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8357ms or 167 ticks behind
+[05Jun2025 00:30:45.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12914ms or 258 ticks behind
+[05Jun2025 00:31:47.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> 70 nl para meter efisiencia 7 a un martillo
+[05Jun2025 00:32:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Abilities -Air Trick-            ]
