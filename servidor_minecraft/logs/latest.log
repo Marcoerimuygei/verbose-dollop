@@ -112,3 +112,6 @@
 [05Jun2025 00:38:11.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Jun2025 00:42:30.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [05Jun2025 00:52:03.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 01:00:56.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Timed out
+[05Jun2025 01:00:56.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[05Jun2025 01:00:56.177] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
