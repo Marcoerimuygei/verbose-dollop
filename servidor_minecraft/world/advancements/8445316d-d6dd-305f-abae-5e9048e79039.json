@@ -8549,6 +8549,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-06-05 00:03:20 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:the_threateningly_mobs": {
+    "criteria": {
+      "the_threateningly_mobs_0": "2025-06-05 00:16:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-05 00:27:11 +0000"
@@ -8621,12 +8633,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-06-05 00:03:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-06-05 00:27:11 +0000"
@@ -8678,12 +8684,6 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-06-05 00:27:11 +0000"
-    },
-    "done": true
-  },
-  "threateningly_mobs:the_threateningly_mobs": {
-    "criteria": {
-      "the_threateningly_mobs_0": "2025-06-05 00:16:18 +0000"
     },
     "done": true
   },
@@ -8750,6 +8750,18 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-06-05 00:27:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/air_trick": {
+    "criteria": {
+      "customtrigger": "2025-06-05 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-06-05 00:36:35 +0000"
     },
     "done": true
   },
