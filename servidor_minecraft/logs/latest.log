@@ -115,3 +115,12 @@
 [05Jun2025 01:00:56.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Timed out
 [05Jun2025 01:00:56.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
 [05Jun2025 01:00:56.177] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jun2025 01:09:10.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:35871] logged in with entity id 48105 at (19.39324227240409, 16.0, 13.300000011920929)
+[05Jun2025 01:09:11.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[05Jun2025 01:09:11.048] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
+[05Jun2025 01:10:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The Threateningly Mobs]
+[05Jun2025 01:11:13.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[05Jun2025 01:11:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[05Jun2025 01:11:26.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:41287] logged in with entity id 50383 at (535.666054083363, -58.0, 725.6876663396697)
+[05Jun2025 01:11:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[05Jun2025 01:11:26.516] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
