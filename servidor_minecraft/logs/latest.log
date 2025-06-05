@@ -1,2 +1,6 @@
 [05Jun2025 00:05:49.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=15, z=198} BlockPos{x=-43, y=15, z=195}
 [05Jun2025 00:05:49.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=15, z=198} BlockPos{x=-43, y=15, z=195}
+[05Jun2025 00:16:18.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Threateningly Mobs]
+[05Jun2025 00:16:25.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jun2025 00:16:53.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/18644, l='ServerLevel[world]', x=372.68, y=63.85, z=301.71] died: Honeyed Archer was slain by Dread Hound
+[05Jun2025 00:18:41.720] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
