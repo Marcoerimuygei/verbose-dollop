@@ -811,3 +811,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 23:42:14.924] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [07Jun2025 23:42:43.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
 [07Jun2025 23:45:32.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [The broken Nether's warmachine]
+[07Jun2025 23:49:57.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15990ms or 319 ticks behind
+[07Jun2025 23:51:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Best Friends Forever]
+[07Jun2025 23:51:46.556] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Jun2025 23:58:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte tried to swim in lava
+[07Jun2025 23:58:44.957] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved

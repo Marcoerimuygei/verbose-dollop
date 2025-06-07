@@ -6702,3 +6702,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 23:44:48.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 23:44:48.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jun2025 23:45:32.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [The broken Nether's warmachine]
+[07Jun2025 23:49:42.404] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[07Jun2025 23:49:45.298] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[07Jun2025 23:49:45.311] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[07Jun2025 23:49:45.657] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[07Jun2025 23:49:45.794] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[07Jun2025 23:49:51.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[07Jun2025 23:49:51.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[07Jun2025 23:49:53.803] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[07Jun2025 23:49:55.590] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[07Jun2025 23:49:57.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15990ms or 319 ticks behind
+[07Jun2025 23:50:01.869] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[07Jun2025 23:50:02.798] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[07Jun2025 23:50:04.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 23:50:04.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 23:50:04.932] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[07Jun2025 23:50:04.948] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[07Jun2025 23:50:04.950] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[07Jun2025 23:50:28.404] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[07Jun2025 23:51:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Best Friends Forever]
+[07Jun2025 23:51:46.555] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[07Jun2025 23:51:46.556] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Jun2025 23:51:47.604] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[07Jun2025 23:51:47.969] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[07Jun2025 23:51:48.073] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[07Jun2025 23:51:48.197] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[07Jun2025 23:51:48.255] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[07Jun2025 23:51:48.971] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[07Jun2025 23:51:48.994] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[07Jun2025 23:51:49.352] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[07Jun2025 23:51:49.371] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[07Jun2025 23:51:49.449] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[07Jun2025 23:51:49.540] [Worker-Main-17/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[07Jun2025 23:55:04.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 23:55:04.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 23:58:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte tried to swim in lava
+[07Jun2025 23:58:44.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:-1671, y:38, z:883, dim:minecraft:the_nether]
+[07Jun2025 23:58:44.957] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
