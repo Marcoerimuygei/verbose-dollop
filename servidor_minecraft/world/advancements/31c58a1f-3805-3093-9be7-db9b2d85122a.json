@@ -8489,5 +8489,17 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-07 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-06-07 22:12:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
