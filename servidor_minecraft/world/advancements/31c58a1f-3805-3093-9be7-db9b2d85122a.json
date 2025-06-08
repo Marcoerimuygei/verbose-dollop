@@ -8526,9 +8526,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-06-08 01:18:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/blackstone/pillar": {
     "criteria": {
       "has_item": "2025-06-07 23:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-06-08 01:18:41 +0000"
     },
     "done": true
   },
