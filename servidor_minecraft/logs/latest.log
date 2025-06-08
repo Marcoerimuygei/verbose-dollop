@@ -6,3 +6,6 @@
 [08Jun2025 00:25:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
 [08Jun2025 00:26:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
 [08Jun2025 00:42:06.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[08Jun2025 00:56:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
+[08Jun2025 00:58:41.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
+[08Jun2025 00:59:40.669] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
