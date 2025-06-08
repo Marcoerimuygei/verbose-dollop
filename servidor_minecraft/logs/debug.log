@@ -6739,3 +6739,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 23:58:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte tried to swim in lava
 [07Jun2025 23:58:44.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:-1671, y:38, z:883, dim:minecraft:the_nether]
 [07Jun2025 23:58:44.957] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[08Jun2025 00:00:04.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:00:04.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:02:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
+[08Jun2025 00:02:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
+[08Jun2025 00:04:13.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of creature_compendium:bastion/netherite_forge
+[08Jun2025 00:04:23.376] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena1 is being run through DFU (hash 1639040beee09f9270c31ac18907488c49bd397a20e3cf2e438ddeeeb2a4b5dc), this will cause launch time delays
+[08Jun2025 00:04:23.733] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena2 is being run through DFU (hash 3619c39a998b48ce06040cb5b2cd343bf9ebb514c9578b21882ce044438e23c0), this will cause launch time delays
+[08Jun2025 00:04:23.985] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena3 is being run through DFU (hash 86c0909e2efdb6293e471f96d6a14904efe4cb59b0c7d84784c34ba3ae92ce61), this will cause launch time delays
+[08Jun2025 00:04:24.119] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena4 is being run through DFU (hash 19fb2fa64aba37fa7dce14e6f4d54e3546f3efb7b8bb2e4fe7f6973f9aebc221), this will cause launch time delays
+[08Jun2025 00:04:24.268] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena5 is being run through DFU (hash 8fcc215c44a596a3ba2d8c554756d778b07bbbe23d17eccf3248d6e29a726b99), this will cause launch time delays
+[08Jun2025 00:04:24.380] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena6 is being run through DFU (hash 9384404d650a6664a7cb9870face813a55ea722abd34dd69732d681c50690141), this will cause launch time delays
+[08Jun2025 00:04:24.510] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena7 is being run through DFU (hash 9870666c6e554ecb0ab1c818a2fe78f966bfcfbb665a5dae552e96f4ec572290), this will cause launch time delays
+[08Jun2025 00:04:24.606] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena8 is being run through DFU (hash 1ef7866efb08c91acd64618129097e5b9b7ab7232a4984a255eb435ee18b0cda), this will cause launch time delays
+[08Jun2025 00:05:04.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:05:04.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:05:42.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Hot Tourist Destinations]
+[08Jun2025 00:07:47.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
+[08Jun2025 00:08:10.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
