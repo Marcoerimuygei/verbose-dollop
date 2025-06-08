@@ -6761,3 +6761,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 00:10:04.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jun2025 00:15:04.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 00:15:04.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:20:04.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:20:04.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:25:04.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:25:04.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:25:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
+[08Jun2025 00:26:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
