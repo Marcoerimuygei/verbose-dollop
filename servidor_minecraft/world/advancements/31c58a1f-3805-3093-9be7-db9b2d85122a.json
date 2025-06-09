@@ -2397,6 +2397,7 @@
       "minecraft:warm_ocean": "2025-06-06 02:03:11 +0000",
       "minecraft:flower_forest": "2025-05-25 02:13:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 03:15:35 +0000",
+      "minecraft:deep_dark": "2025-06-08 01:25:59 +0000",
       "minecraft:meadow": "2025-06-01 00:13:54 +0000",
       "minecraft:plains": "2025-05-25 02:06:01 +0000"
     },
@@ -8502,6 +8503,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-06-08 01:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-08 01:26:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 23:45:55 +0000"
@@ -8517,6 +8530,12 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 23:45:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-08 01:31:26 +0000"
     },
     "done": true
   },
@@ -8556,9 +8575,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-08 01:26:36 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2025-06-07 23:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-08 01:26:36 +0000"
     },
     "done": true
   },
@@ -8574,6 +8605,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-06-08 01:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 23:45:55 +0000"
@@ -8583,6 +8620,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 23:45:55 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:titan_defeat": {
+    "criteria": {
+      "titan_defeat_0": "2025-06-08 01:33:31 +0000"
     },
     "done": true
   },
