@@ -5960,9 +5960,39 @@
     },
     "done": true
   },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2025-06-09 17:57:14 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-06-09 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/building_blocks/grass_slab": {
+    "criteria": {
+      "has_item": "2025-06-09 17:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 17:57:14 +0000"
     },
     "done": true
   },
