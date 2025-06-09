@@ -828,3 +828,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 16:59:27.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.5246258340598047
 [09Jun2025 17:00:31.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Disconnected
 [09Jun2025 17:00:31.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[09Jun2025 17:02:08.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:55411] logged in with entity id 8281 at (226.3953182752627, 69.0, 321.3616948393723)
+[09Jun2025 17:02:08.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[09Jun2025 17:02:08.329] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[09Jun2025 17:02:18.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09Jun2025 17:02:37.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4706ms or 94 ticks behind
+[09Jun2025 17:02:59.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6325ms or 126 ticks behind
+[09Jun2025 17:03:18.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4352ms or 87 ticks behind
+[09Jun2025 17:03:39.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5939ms or 118 ticks behind
+[09Jun2025 17:03:59.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5099ms or 101 ticks behind
+[09Jun2025 17:04:18.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
