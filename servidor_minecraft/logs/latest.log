@@ -838,3 +838,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 17:03:39.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5939ms or 118 ticks behind
 [09Jun2025 17:03:59.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5099ms or 101 ticks behind
 [09Jun2025 17:04:18.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
+[09Jun2025 17:17:16.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Far From Perfect]
